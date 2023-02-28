@@ -15,3 +15,8 @@
 - Serverless functions available (lambdas)
 - Frontend can talk to this Serverless functions
 - Useful when needs to talk with third party server, like Algolia or Stripe
+
+## 4. Image optimization
+
+- Next comes with some components that help with image optimization, like `next/image` or `next/legacy/image`
+- Some attributes like `layout="responsive"` are deprecated, so we need to understand how's the new way to do it
