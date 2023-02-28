@@ -9,3 +9,9 @@
 
 - Out of the box, automatic, no need for special code
 - When we run `npm run build`, Next automatically generates a file for each route we have
+
+## 3. API Routes
+
+- Serverless functions available (lambdas)
+- Frontend can talk to this Serverless functions
+- Useful when needs to talk with third party server, like Algolia or Stripe
