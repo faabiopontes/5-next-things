@@ -27,3 +27,7 @@ export default function Home() {
     </div>
   );
 }
+
+//  If uncomment next export doesn't work
+// export function getStaticProps() {}
+// export function getStaticPaths() {}

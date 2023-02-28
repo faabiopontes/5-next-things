@@ -20,3 +20,12 @@
 
 - Next comes with some components that help with image optimization, like `next/image` or `next/legacy/image`
 - Some attributes like `layout="responsive"` are deprecated, so we need to understand how's the new way to do it
+- It requires a Node server to be used
+
+## 5. Generating a Site
+
+- We can generate a static site
+- We can generate on backend with `next export`
+- And can also have a mix of both worlds using `getStaticProps` and `getStaticPaths`
+- The video doesn't get deep on how to use these functions though, and `next export` doesn't work with them empty
+- After running `next export` the static files will be at `out` folder
