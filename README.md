@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Following video [5 Reasons To Use Next.js Over Plain React](https://www.youtube.com/watch?v=I-zhncvdEGU)
 
 ## Getting Started
 
